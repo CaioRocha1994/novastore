@@ -17,5 +17,9 @@
   },
   "devDependencies": {
     "nodemon": "^latest"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
